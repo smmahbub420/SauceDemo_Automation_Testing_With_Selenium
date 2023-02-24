@@ -1,0 +1,1 @@
+{"uuid":"6175f04c-c737-4b27-860a-420a34ce2b1b","name":"SAUCEDEMO_AUTOMATION_TEST_WITH_SELENIUM_JAVA","children":["a393f565-79a1-4647-a347-46a4f0be90fc"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1677238254332,"stop":1677238256117}],"afters":[],"start":1677238254320,"stop":1677238265899}
