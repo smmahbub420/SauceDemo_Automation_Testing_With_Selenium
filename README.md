@@ -1,22 +1,22 @@
-## SAUCEDEMO_AUTOMATION_TEST_WITH_SELENIUM_JAVA**
+Project Title : SauceDemo_Automation_Testing_With_Selenium
 
 
-Web-automation test project , TestNG, In this project work with Selenium Web-Driver, Page object Model (POM), Json,
- using java language.
+-> E-commearce Website Automation Testing
 
-the website link is https://www.saucedemo.com/
+Website Link : https://www.saucedemo.com/
 
 
 ## Technology:
-- Tool: selenium
-- IDE: IntelIJ
+- Tool: Selenium
 - Build tool: Gradle
+- IDE: IntelIJ
 - Language: Java
-- Test_Runner: TestNG Test Runner
+- Test_Runner: TestNG
 
 ## Prerequisite:
-1. Need to install jdk 1.8
-2. Need good internet connectivity
+1. Need to install jdk 1.8 
+2. Need to install Grdale 
+2. Need Internet Connection 
 
 ## Run the automation script:
 1. Open cmd to the project folder
@@ -26,11 +26,6 @@ the website link is https://www.saucedemo.com/
 gradle clean test
 ```
 3. Selenium will open the browser and start automation.
-4. To view report
 ```sh
 ```
-
-
-## Screen Rec.
-https://user-images.githubusercontent.com/93866513/221177936-ccc0513c-861b-423d-8df1-4ab1d95d1285.mp4
 
